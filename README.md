@@ -18,3 +18,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 ## Author
 software-developer15
 This is a small update in the bug-fix-typo branch.
+This is another update for creating a Pull Request.
